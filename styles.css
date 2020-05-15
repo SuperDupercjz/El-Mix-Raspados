@@ -1,0 +1,81 @@
+body{
+    background-image: linear-gradient(red, yellow, green);
+}
+.header{
+
+    border: 8px black solid; 
+    overflow: hidden;
+   margin-bottom: 20px;
+   color: white;
+  background-color:black;
+}
+.el{
+    text-align: center;
+    font-size: 80px;
+    padding-left: 50px;
+    display: inline;
+    padding-top: 25px;
+    font-weight: 900;
+}
+.headerimg{
+    height: 200px;
+    float: left;
+    overflow: auto;
+    padding: 10px;
+    background-color: black;
+}
+.click1{
+    padding-left: 30px;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+
+}
+.click2{
+    padding-left: 30px;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+
+}
+.click3{
+    padding-left: 30px;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+
+}
+.click1:hover{
+    color: red;
+}
+.click2:hover{
+    color:green;
+}
+.click3:hover{
+    color: rgb(238, 255, 0);
+}
+.el:hover{
+    color: red;
+}
+.footer{
+    margin-top: 20px;
+}
+piccol{
+height: 800px;
+}
+.imgmainpage{
+    margin-top: 30px;
+}
+/* contact */
+#contactscenter{
+    text-align: center;
+}
+.contacttitel{
+    font-size: 90px;
+    font-weight: 900;
+    color: red;
+    margin-bottom: 20px;
+}
+.bodyinfo{
+   font-size: 35px;
+}
