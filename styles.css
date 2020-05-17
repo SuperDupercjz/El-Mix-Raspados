@@ -1,5 +1,7 @@
 body{
     background-image: linear-gradient(red, yellow, green);
+    color: black;
+    font-weight: 500;
 }
 .header{
 
@@ -26,21 +28,21 @@ body{
 }
 .click1{
     padding-left: 30px;
-    font-size: 30px;
+    font-size: 40px;
     color: white;
     font-weight: 600;
 
 }
 .click2{
     padding-left: 30px;
-    font-size: 30px;
+    font-size: 40px;
     color: white;
     font-weight: 600;
 
 }
 .click3{
     padding-left: 30px;
-    font-size: 30px;
+    font-size: 40px;
     color: white;
     font-weight: 600;
 
@@ -91,4 +93,29 @@ height: 800px;
     text-align: center;
     font-size: 60px;
     font-weight: 700;
+}
+/* menu */
+.titlemenuSection{
+    margin-top:40px;
+    border: black 5px solid;
+   background-color: rgb(72, 192, 72);
+   border-radius: 20px;
+}
+.raspadosmenu{
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+}
+.menufont{
+    text-align: center;
+    font-size: 35px;
+}
+.prices{
+    text-align: center;
+    background-color: white;
+    color:black;
+    margin-left: 5px;
+    font-weight: 700;
+    border-radius: 5px;
 }
