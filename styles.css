@@ -65,9 +65,9 @@ body{
 .footer{
     margin-top: 20px;
 }
-piccol{
+/* .piccol{
 height: 800px;
-}
+} */
 .imgmainpage{
     margin-top: 30px;
 }
@@ -126,4 +126,10 @@ height: 800px;
     margin-left: 5px;
     font-weight: 700;
     border-radius: 5px;
+}
+.giphy-embed:hover{
+    color: none;
+}
+.border{
+    border: white 10px solid;
 }
