@@ -28,30 +28,30 @@ body{
 }
 .click1{
     padding-left: 30px;
-    font-size: 40px;
+    font-size: 50px;
     color: white;
-    font-weight: 600;
+    font-weight: 900;
 
 }
 .click2{
     padding-left: 30px;
-    font-size: 40px;
+    font-size: 50px;
     color: white;
-    font-weight: 600;
+    font-weight: 900;
 
 }
 .click3{
     padding-left: 30px;
-    font-size: 40px;
+    font-size: 50px;
     color: white;
-    font-weight: 600;
+    font-weight: 900;
 
 }
 .el:hover{
     color: red;
 }
 .click1:hover{
-    color: red;
+    color: rgb(238, 255, 0);
 }
 .click2:hover{
     color:green;
@@ -139,4 +139,9 @@ height: 800px;
     font-size: 30px;
     color: rgb(0, 0, 0);
     border: white solid 7px;
+}
+.floatright{
+    display: inline;
+    text-align: center;
+  
 }
